@@ -1,1 +1,1 @@
-#Login System in PHP.: Designed by Websitekali
+#Login System in PHP and MySQL, Designed by Websitekali
